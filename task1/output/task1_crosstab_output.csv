@@ -1,0 +1,6 @@
+Course_Category,Design,Design,Marketing,Marketing,Programming,All
+Payment_Status,Failed,Success,Failed,Success,Success,
+User_Gender,,,,,,
+Female,2,0,0,0,3,5
+Male,0,1,1,2,1,5
+All,2,1,1,2,4,10
